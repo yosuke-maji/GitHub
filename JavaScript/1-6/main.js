@@ -5,3 +5,13 @@ for(let i = 0; i < scores.length; i++){
         console.log(`${scores[i]}は、偶数です。`);
     }
 }
+
+
+
+let car ={
+    gass : 20.5,
+    num : 1234,
+};
+
+console.log("ガソリンは"+ car.gass +"です。");
+console.log("ナンバーは"+ car.num +"です。");
